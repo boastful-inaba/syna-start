@@ -78,7 +78,20 @@ lastmod = ["lastmod", ":git", "date"]
 [[menu.main]]
   url = "/absorb_demo/should_stand_alone"
   name = "This Page Should Show Stuff (But gets eaten)"
-  weight = 20
+  weight = 21
+
+[[menu.main]]
+  url = "/cargoculted"
+  name = "Cargocult"
+  weight = 23
+
+[[menu.main]]
+  url = "/cargoculted/should_stand_alone"
+  name = "Kinda Works but I don't know why"
+  weight = 24
+
+
+
 
 [[menu.main]]
   url = "/about"
